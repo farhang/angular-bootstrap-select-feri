@@ -18,7 +18,7 @@
     "CHANGELOG.md"
   ],
   "dependencies": {
-    "bootstrap-select": "~1.6"
+    "bootstrap-select": "~1.12.2"
   },
   "devDependencies": {
     "bootstrap": "3.0.0",
